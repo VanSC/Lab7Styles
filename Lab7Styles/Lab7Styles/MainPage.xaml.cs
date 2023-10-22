@@ -45,6 +45,11 @@ namespace Lab7Styles
                 await Navigation.PushAsync(new InheritanceDemo());
             };
 
+            StyleWithCSS.Clicked += async (sender, e) =>
+            {
+                await Navigation.PushAsync(new StyleWithCSS());
+            };
+
         }
     }
 }

@@ -1,0 +1,21 @@
+﻿/* estilos.css */
+
+/* Estilo para el botón */
+.my-button {
+    background-color: black;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bolder;
+    border-radius:initial;
+}
+.myLabel {
+    background-color: navajowhite;
+    font-weight: bolder;
+    text-decoration: underline;
+
+}
+.myName{
+    color: purple;
+    font-weight: bolder;
+    margin:initial;
+}
